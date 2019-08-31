@@ -1,0 +1,6 @@
+#include<bits/stdc++>
+using namespce std;
+int main()
+{
+  cout<<"HI";
+}
